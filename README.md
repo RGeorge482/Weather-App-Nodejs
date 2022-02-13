@@ -5,3 +5,4 @@ In this app, users can track the weather by completing the city name entry. As a
 
 
 ![pc1](https://user-images.githubusercontent.com/69143183/151867066-29c813df-0fe7-46d3-accd-fdd719bcc877.jpg)
+![pc2](https://user-images.githubusercontent.com/69143183/151867126-59543d00-719d-40c8-b2d7-584d0955d704.jpg)
